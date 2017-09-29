@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--上门维修数据-->
+    <string-array name="maintain">
+        <item>房屋维修</item>
+        <item>家电维修</item>
+        <item>家具维修</item>
+        <item>管道疏通</item>
+        <item>数码维修</item>
+        <item>手机维修</item>
+        <item>保洁清理</item>
+        <item>锁具更换清理</item>
+        <item>其他</item>
+    </string-array>
+</resources>
